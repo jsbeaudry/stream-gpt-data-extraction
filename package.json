@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your_username/extract-validated-objects.git"
+    "url": "git+https://github.com/jsbeaudry/stream-gpt-data-extraction.git"
   },
   "keywords": [
     "npm",
@@ -20,9 +20,10 @@
     "AI"
   ],
   "bugs": {
-    "url": "https://github.com/your_username/extract-validated-objects/issues"
+    "url": "https://github.com/jsbeaudry/stream-gpt-data-extraction/issues"
   },
-  "homepage": "https://github.com/your_username/extract-validated-objects#readme",
+  "homepage": "https://github.com/jsbeaudry/stream-gpt-data-extraction#readme",
+  "dependencies": {},
   "devDependencies": {
     "sse.js": "^0.6.1",
     "@babel/core": "^7.22.9",
