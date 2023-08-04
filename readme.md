@@ -9,9 +9,9 @@ The Stream GPT Data Extraction NPM package is a powerful tool that allows users 
 To install the package, you can use npm or yarn. Open your terminal or command prompt and run the following command:
 
 ```bash
-npm install stream-gpt-data-extraction
+npm install stream-gpt-data-extraction sse.js
 OR
-yarn add stream-gpt-data-extraction
+yarn add stream-gpt-data-extraction sse.js
 ```
 
 ### Usage
@@ -41,6 +41,10 @@ To start using GPT-4 Text Streaming, you need to provide your OpenAI API key and
       (status)   => console.log("STATUS", status)}
  );
 ```
+
+![Alt text](https://res.cloudinary.com/dfzp7vpre/image/upload/v1691122968/video/Screen_Shot_2023-08-04_at_12.22.04_AM.png)
+
+Check out [VIDEO](https://res.cloudinary.com/dfzp7vpre/video/upload/v1691122365/video/stream-gpt-demo.mp4)
 
 ### License
 
