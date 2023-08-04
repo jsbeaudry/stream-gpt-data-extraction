@@ -1,0 +1,39 @@
+{
+  "name": "stream-gpt-data-extraction",
+  "version": "0.0.5",
+  "main": "index.js",
+  "author": "jsbeaudry <jeansauvenel.beaudry@gmail.com>",
+  "description": "The Stream GPT Data Extraction NPM package is a powerful tool that allows users to interact with OpenAI’s GPT-4 language model and stream text in real-time. ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your_username/extract-validated-objects.git"
+  },
+  "keywords": [
+    "npm",
+    "extract",
+    "valid",
+    "objects",
+    "chatgpt",
+    "chatgpt-3",
+    "chatgpt-4",
+    "AI"
+  ],
+  "bugs": {
+    "url": "https://github.com/your_username/extract-validated-objects/issues"
+  },
+  "homepage": "https://github.com/your_username/extract-validated-objects#readme",
+  "devDependencies": {
+    "sse.js": "^0.6.1",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5",
+    "babel-jest": "^29.6.2",
+    "jest": "^29.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
