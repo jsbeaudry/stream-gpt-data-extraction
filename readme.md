@@ -34,7 +34,7 @@ To start using GPT-4 Text Streaming, you need to provide your OpenAI API key and
 To start using GPT-4 Text Streaming, you need to provide your OpenAI API key and the prompt.
 
 ```bash
- StreamTextResponse(
+ StreamObjectResponse(
       OPENAI_KEY,
       "Two Chuck Norris Jokes to make you laugh",
       (response) => console.log("RESPONSE", response)},
