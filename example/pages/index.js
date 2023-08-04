@@ -7,7 +7,7 @@ export default function Home() {
   const [formState, setFormState] = useState({
     input1:
       "Tell me about artificial interlligence. Response must be less than 100 characters",
-    input2: "Two Chuck Norris Jokes to make you laugh",
+    input2: "Five Chuck Norris Jokes to make you laugh",
     content: "",
     array: [],
   });
