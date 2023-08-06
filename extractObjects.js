@@ -1,5 +1,3 @@
-// extractObjects.js
-
 function extractObjects(arrayString) {
   const objectPattern = /{[^{}]*}/g;
   const objects = arrayString.match(objectPattern);
