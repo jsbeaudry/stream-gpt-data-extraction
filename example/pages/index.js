@@ -1,8 +1,5 @@
 import { useState } from "react";
-import {
-  StreamTextResponse,
-  StreamObjectResponse,
-} from "stream-gpt-data-extraction";
+import { StreamTextResponse, StreamObjectResponse } from "../../";
 export default function Home() {
   const [formState, setFormState] = useState({
     input1:

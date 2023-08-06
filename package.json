@@ -1,6 +1,6 @@
 {
   "name": "stream-gpt-data-extraction",
-  "version": "0.0.10",
+  "version": "0.1.0-BETA",
   "main": "index.js",
   "author": "jsbeaudry <jeansauvenel.beaudry@gmail.com>",
   "description": "The Stream GPT Data Extraction NPM package is a powerful tool that allows users to interact with OpenAI’s GPT-4 language model and stream text in real-time. ",

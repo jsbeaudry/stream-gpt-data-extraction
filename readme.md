@@ -53,7 +53,3 @@ This package is released under the MIT License. Feel free to use it in your proj
 ### Acknowledgements
 
 This package is built on top of OpenAI's GPT-4 language model. Special thanks to the team at OpenAI for their amazing work.
-
-# imancity
-
-Check out our [npm-ai.com](npm-ai.com) to know more.
